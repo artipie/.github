@@ -8,6 +8,13 @@ Artipie is a software repository manager constructor, and self-hosted free servi
 You can build your own repository server from Artipie components or run Artipie server on your private network.
 Check our wiki pages for details: https://github.com/artipie/artipie/wiki
 
+**Publications about Artipie:**
+- [An Easy Way to Get Your Own Binary Repository](https://dzone.com/articles/easy-way-to-get-your-own-binary-repository#)
+- [Private Remote Maven Repository With Artipie](https://dzone.com/articles/private-remote-maven-repository-with-artipie-1)
+- [Deployment of NPM Repositories with Artipie](https://dev.to/andpopov/deployment-of-npm-repositories-with-artipie-30co)
+- [How I use Artipie, a PyPI repo](https://opensource.com/article/22/12/python-package-index-repository-artipie)
+- [Готовим приватные репозитории с помощью Artipie](https://habr.com/ru/post/687394/)
+
 [Artipie roadmap](https://github.com/orgs/artipie/projects/3) on the third quarter:
  * validate README files in all our projects. All files should have actual description and worked links.
  * implement Hex repository's adapter. The adapter will allow hosting private Erlang / Elixir packages using artipie as repositories manager.
